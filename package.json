@@ -1,5 +1,5 @@
 {
 	"name": "CCEnhancedPvP",
-	"main": "mod.js",
+	"prestart": "mod.js",
 	"version": "0.0.1"
 }
