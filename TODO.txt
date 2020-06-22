@@ -1,0 +1,2 @@
+1. use patchsteps!
+2. maybe add a screenshot to the README
